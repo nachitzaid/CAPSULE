@@ -1,0 +1,41 @@
+# Instructions to Deploy the Project Locally
+
+This project is built using React and Vite. It is located in the `frontend` subdirectory.
+Follow these steps to run the application on your local machine.
+
+## 1. Development Mode (Recommended for testing and editing)
+In this mode, the server will automatically reload when you make changes to the code.
+
+1. Open your terminal or command prompt.
+2. Navigate to the frontend directory:
+   ```cmd
+   cd frontend
+   ```
+3. Install the required Node.js dependencies (you only need to do this once):
+   ```cmd
+   npm install
+   ```
+4. Start the local development server:
+   ```cmd
+   npm run dev
+   ```
+5. Open your web browser and visit the URL shown in the terminal (typically `http://localhost:5173/` or `http://127.0.0.1:5173/`).
+
+---
+
+## 2. Production Preview Mode
+Use this mode if you want to test the optimized, production-ready version of the app locally before deploying it to a web host (like Vercel, Netlify, or GitHub Pages).
+
+1. Navigate to the frontend directory:
+   ```cmd
+   cd frontend
+   ```
+2. Build the production assets:
+   ```cmd
+   npm run build
+   ```
+3. Start the local preview server:
+   ```cmd
+   npm run preview
+   ```
+4. Open your web browser and visit the URL shown in the terminal (typically `http://localhost:4173/` or `http://127.0.0.1:4173/`).
