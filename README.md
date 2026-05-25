@@ -1,6 +1,6 @@
 # 🏆 Capsule - Awwwards SOTD Clone
 
-![Capsule Showcase](https://raw.githubusercontent.com/Niranjannedumaran/Capsule-Awwards-Clone/refs/heads/main/frontend/src/assets/showcase-img.png)
+![Capsule Showcase](https://raw.githubusercontent.com/nachitzaid/CAPSULE/refs/heads/main/frontend/src/assets/showcase-img.png)
 
 
 > ⚠️ **This Website Is Still Under Construction**
@@ -13,7 +13,7 @@ A faithful React.js clone of the **"awwwards"** ([Awwwards.com](https://www.awww
 
 ## 🚀 Live Demo
 
-[View Live Project](https://niranjannedumaran.github.io/Capsule-Awwards-Clone/)
+[View Live Project](https://nachitzaid.github.io/CAPSULE/)
 
 ## ✨ Features
 
@@ -36,8 +36,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/niranjannedumaran/Capsule-Awwards-Clone.git
-   cd Capsule-Awwards-Clone
+   git clone https://github.com/nachitzaid/CAPSULE.git
+   cd CAPSULE
 
 ## 🪧 Notice
 
